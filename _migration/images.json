@@ -1,0 +1,39 @@
+{
+  "base": "https://res2.yourwebsite.life/res/6509d611a28ceb00174ddcf8/",
+  "note": "Exact CDN filenames as served. Bare ids carried ?nowebp on the live site (CSS backgrounds).",
+  "images": [
+    {"name": "logo.webp", "src": "6509d79f4848b900180ba55f_optimized_345.webp", "role": "logo", "page": "all"},
+    {"name": "logo-footer.webp", "src": "6509d6e44848b900180ba3d4_optimized_637.webp", "role": "logo", "page": "all"},
+    {"name": "favicon.png", "src": "650dd8dbad92b700174eb020_optimized", "role": "favicon", "sizes": "96x96"},
+    {"name": "apple-touch-icon.png", "src": "650dd8e4ad92b700174eb04d_optimized", "role": "favicon", "sizes": "180x180"},
+    {"name": "hero-trucks.webp", "src": "6509e11daf58f20017312ed8?nowebp", "role": "hero", "page": "/", "slot": "hero + project complexity band"},
+    {"name": "red-texture.svg", "src": "https://res2.yourwebsite.life/res/60e2a02212eaa40021d854dc/60e2f409fc120700216da9a0?nowebp", "role": "hero", "page": "/, /about-us", "slot": "red bands under 0.97 red overlay (template folder 60e2a022...)"},
+    {"name": "topo.svg", "src": "60e81814178866002100d510?nowebp", "role": "hero", "page": "/about-us, /hiring-now", "slot": "CTA bands"},
+    {"name": "tile-1.svg", "src": "60e6c3631a78c6002258d641?nowebp", "role": "content", "page": "/", "slot": "association tile 1 bg"},
+    {"name": "tile-2.svg", "src": "60e6c3618da9e40022a25a25?nowebp", "role": "content", "page": "/", "slot": "association tile 2 bg"},
+    {"name": "tile-3.svg", "src": "60e6c3628e3486002164a87d?nowebp", "role": "content", "page": "/", "slot": "association tile 3 bg"},
+    {"name": "tile-4.svg", "src": "60e6c353c0b0e70021b31e90?nowebp", "role": "content", "page": "/", "slot": "association tile 4 bg"},
+    {"name": "red-dump-truck.webp", "src": "65254759f85f320016dd4f72_optimized.webp", "role": "content", "page": "/"},
+    {"name": "assoc-mdta.webp", "src": "650a041f44997000160c9bcd_optimized.webp", "role": "card", "page": "/"},
+    {"name": "assoc-tsaca.webp", "src": "650a0440af58f200173162ac_optimized.webp", "role": "card", "page": "/"},
+    {"name": "assoc-agc.svg", "src": "650a02d8af58f2001731611b", "role": "card", "page": "/"},
+    {"name": "assoc-monett.webp", "src": "650a04bbbb257b00174fafcb_optimized_1729.webp", "role": "card", "page": "/"},
+    {"name": "testimonial-apac.webp", "src": "6516cca829bc310016d6d885_optimized.webp", "role": "card", "page": "/"},
+    {"name": "testimonial-cowboy.webp", "src": "652561db5c405d0017c0435f_optimized.webp", "role": "card", "page": "/"},
+    {"name": "dozer-dump-truck.webp", "src": "652547b07e548d0017357124_optimized_1316.webp", "role": "content", "page": "/"},
+    {"name": "about-team.webp", "src": "650b3ffebb257b001751168a_optimized_1076.webp", "role": "content", "page": "/about-us"},
+    {"name": "project-menards.webp", "src": "6525487af85f320016dd51d1_optimized.webp", "role": "card", "page": "/about-us"},
+    {"name": "project-cowork-collective.webp", "src": "65254b119616da0017184e87_optimized_1316.webp", "role": "card", "page": "/about-us"},
+    {"name": "project-tiger-paw.webp", "src": "65254bf1f85f320016dd599f_optimized_1348.webp", "role": "card", "page": "/about-us"},
+    {"name": "project-coops-coffee.webp", "src": "65254a22bb16c20018bf1dde_optimized_987.webp", "role": "card", "page": "/about-us"},
+    {"name": "project-ozark-high.webp", "src": "65254b839616da0017184f82_optimized_1348.webp", "role": "card", "page": "/about-us"},
+    {"name": "project-performing-arts.webp", "src": "65254a86f85f320016dd56e9_optimized_1639.webp", "role": "card", "page": "/about-us"},
+    {"name": "project-ozark-middle.webp", "src": "65254c355c405d0017c021dc_optimized_1348.webp", "role": "card", "page": "/about-us"},
+    {"name": "hiring-truck.webp", "src": "652548309616da00171847aa_optimized.webp", "role": "content", "page": "/hiring-now"}
+  ],
+  "videos": {
+    "home-background": "youtube ZTzYgyLRYi8",
+    "about-day-in-the-life": "youtube dnon5u-oxNI",
+    "hiring-hero-background": "youtube dnon5u-oxNI"
+  }
+}

@@ -1,0 +1,5 @@
+_build/
+_migration/
+fetch-images.ps1
+CLAUDE.md
+README.md

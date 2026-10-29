@@ -1,0 +1,17 @@
+{
+  "source": "https://vaughncompanyinc.com",
+  "platform": "weblium",
+  "captured": "2026-10-29",
+  "pages": [
+    {"url": "https://vaughncompanyinc.com/", "slug": "/", "title": "Excavation, Material Hauling, Dirt Work, Rock Sales | Vaughn Company",
+     "sections": ["hero (photo, transparent header)", "red problems list + photo", "youtube bg video band + play popup", "4 association tiles", "testimonial carousel (2 slides)", "project complexity (photo bg, dark overlay .87)", "get started 3 steps", "ready to start split (#contact)"]},
+    {"url": "https://vaughncompanyinc.com/about-us", "slug": "/about-us", "title": "About us Page | Vaughn Company, Inc.",
+     "sections": ["red hero 2 col", "youtube video", "past projects grid (dark)", "topo CTA band"]},
+    {"url": "https://vaughncompanyinc.com/hiring-now", "slug": "/hiring-now", "title": "Work For Vaughn Company, Inc. Today",
+     "sections": ["youtube bg hero + 2 Adobe Sign buttons", "image + 5 benefits (dark)", "topo apply band"]},
+    {"url": "https://vaughncompanyinc.com/contact-us", "slug": "/contact-us", "title": "Contacts Us | Vaughn Company, Inc.",
+     "sections": ["contact directory 3 columns"]},
+    {"url": "https://vaughncompanyinc.com/privacy-policy", "slug": "/privacy-policy", "title": "Vaughn Company, Inc | Privacy Policy",
+     "sections": ["termageddon embed key WXpGVVdFSTVZa2d5UzFOQlRXYzlQUT09"]}
+  ]
+}
